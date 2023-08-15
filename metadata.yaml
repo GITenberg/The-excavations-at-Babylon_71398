@@ -5,12 +5,17 @@ contributor:
     agent_name: Johns, Agnes S.
     gutenberg_agent_id: '56209'
     url: http://www.gutenberg.org/2009/agents/56209
+covers:
+- cover_type: archival
+  image_path: 71398-h/images/cover.jpg
 creator:
   author:
     agent_name: Koldewey, Robert
     gutenberg_agent_id: '56208'
     url: http://www.gutenberg.org/2009/agents/56208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71398#The-excavations-at-Babylon
 gutenberg_issued: '2023-08-13'
 identifiers:
   gutenberg: '71398'
